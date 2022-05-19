@@ -13,6 +13,7 @@
 - [ ] Code is merged on develop branch
 - [ ] Build is deployed on test environment
 - [ ] Story  is demoed to team member
+- [ ] Story is demoed to Product manager AND/OR Designer
 - [ ] ...
 
 
